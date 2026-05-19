@@ -30,3 +30,4 @@ void generateMaze(char maze[HEIGHT][WIDTH]);
  
 #endif
 
+
